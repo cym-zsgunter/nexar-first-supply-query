@@ -1,4 +1,4 @@
-Part Number,Vendor 1,Vendor 1 Unit Price,Vendor 2,Vendor 2 Unit Price,Vendor 3,Vendor 3 Unit Price
-SSR-240A25,Aztech,0.42238,TTI,37.09,TME,47.12418436907169
-5749266-1,Mouser,2.08,DigiKey,2.77,Powell Electronics,6.1989
-KMDGX-5S-BS,Fly-Wing Technology,0.81313,Mouser,1.47,Quest,2.485
+Part Number,Quantity,Vendor 1,Vendor 1 Unit Price,Vendor 2,Vendor 2 Unit Price,Vendor 3,Vendor 3 Unit Price
+SSR-240A25,1,Aztech,0.42238,TTI,37.09,TME,47.12888996181363
+5749266-1,290,Future Electronics,1.6,Mouser,2.06,Powell Electronics,6.1989
+3211797,251,AAA CHIPS,0.41723,DigiKey,2.71276,Bettlink,5.3485
